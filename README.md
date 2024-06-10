@@ -1,95 +1,53 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Ebrahim Elzayat**, a passionate Android Software Engineer. Welcome to my GitHub profile where I share my projects, contributions, and collaborations.
+Hi there! I'm **Ebrahim Elzayat**, a passionate Android Software Engineer. Welcome to my GitHub profile where I share my projects and contributions.
 
 ## About Me
 
-I'm currently working at Elsewedy Technical Academy (STA) as a JAVA and Mobile Apps Development Trainer. I have a Bachelor's degree in Computer and Systems Engineering from Zagazig University and a strong background in developing reliable Android applications. I am enthusiastic about solving complex problems, learning new technologies, and improving my skills.
+I'm currently a JAVA and Mobile Apps Development Trainer at Elsewedy Technical Academy (STA). I have a B.Sc. in Computer and Systems Engineering from Zagazig University. I love solving problems, learning new technologies, and building reliable Android applications.
 
 ## Experience
 
-- **Programming Trainer at Elsewedy Technical Academy (STA)** (Dec 2023 – present)
-  - 👨‍🏫 Trained students on problem-solving, programming fundamentals, and developing Java and Android applications.
-  - 📱 Developed and trained students on the "Banki Mobile" application.
+- **Technical Trainer at Elsewedy Technical Academy (STA)** (Dec 2023 – present)
+  - 👨‍🏫 Training students in Java and Android development.
+  - 📱 Developed "Banki Mobile" application.
 
 - **Intern at Information Technology Institute (ITI)** (July 2021 – Aug. 2021)
-  - 🚀 Developed the "Rahalati" app, which provides trip reminders and route guidance using Google Maps.
+  - 🚀 Developed "Rahalati" app for trip reminders and route guidance.
 
 ## Education
 
-- 🎓 **B.Sc. Computer and Systems Engineering (CSE)**, Zagazig University (Sept. 2017 – July 2022)
-  - 📊 Accumulative Grade: Very Good
+- 🎓 **B.Sc. Computer and Systems Engineering (CSE)**, Zagazig University (2017 – 2022)
   - 🌟 Graduation Project: "Grow Smart – Smart Agriculture System" (Grade: Excellent)
 
 ## Projects
 
-### 🌾 Farmer Friend App - [GitHub Repository](https://github.com/ebrahim5599/Farmer-Friend)
-A smart agriculture system for sensor readings, irrigation control, and an online store for agricultural products.
-- Navigation Component
-- CameraX implementation
-- SQLite Database
-- Retrofit
-- Picasso
-- MVVM architecture pattern
+### 🌾 Farmer Friend App
+Smart agriculture system with sensor readings, irrigation control, and an online store.
+[GitHub Repository](https://github.com/ebrahim5599/Farmer-Friend)
 
+### 📖 Khatmah App
+Manage and track Quran readings, published on Google Play.
+[Google Play Store](https://play.google.com/store/apps/details?id=com.islamic.khatmah)
 
-### 📖 Khatmah App - [Google Play Store](https://play.google.com/store/apps/details?id=com.islamic.khatmah)
-A published app on Google Play for managing and tracking Quran readings.
-- Navigation UI
-- Multi-threading
-- JSON files
-- Picasso
-- SharedPreferences
-- Services
-- Internal Storage
-- Broadcast receiver
-- Streams
-- Alarm Manager
-
-
-### 🌍 Rahalati App - [GitHub Repository](https://github.com/ebrahim5599/ITI-Final-Project)
-An ITI intern final project for trip reminders and route guidance.
-- Firebase
-- SharedPreferences
-- Internal Storage
-- Maps
-- Services
-- Broadcast receiver
-- Alarm Manager
-
+### 🌍 Rahalati App
+Trip reminders and route guidance app.
+[GitHub Repository](https://github.com/ebrahim5599/ITI-Final-Project)
 
 ## Skills
 
 ### 🛠️ Technical Skills
-- **Languages**: JAVA, Kotlin
-- **Android Development**: Android SDK, Jetpack libraries, Retrofit, Glide, REST APIs, SQLite, Room
-- **Architecture**: MVVM, RX Java, Coroutines, Design Patterns, SOLID Principles
-- **Tools**: Git, GitHub
-- **Other**: XML, JSON
+- JAVA, Kotlin
+- Android SDK, Jetpack libraries, Retrofit, Glide
+- MVVM, RX Java, Coroutines, SOLID Principles
+- Git, GitHub
 
 ### 🌟 Personal Skills
-- Self-motivated
-- Quick learning
-- Conflict resolution
-- Accountability
-- Commitment
-- Presentation skills
-- Communication skills
-
-### 🌐 Languages
-- **Arabic**: Mother tongue
-- **English**: Intermediate
-
-## 📜 Certifications
-- Introduction to the Internet of Things (Mahara – Tech)
-- Android Basics: Networking (Udacity)
-- Android Development Track (1 Million Arab Coders Initiative, Udacity)
-- Classic Control (Jelecom, Zagazig University)
-- Presentation Skills (Udemy)
+- Self-motivated, Quick learner, Committed
 
 ## 📬 Get in Touch
 
-Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
+Feel free to reach out for collaboration or questions!
 
 - **Email**: [eng.ebrahim59@gmail.com](mailto:eng.ebrahim59@gmail.com)
 - **LinkedIn**: [Ebrahim Elzayat](https://www.linkedin.com/in/ebrahim-elzayat59/)
