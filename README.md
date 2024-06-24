@@ -28,7 +28,7 @@ Smart agriculture system with sensor readings, irrigation control, and an online
 
 ### 📖 Khatmah App
 Manage and track Quran readings, published on Google Play.
-[GitHub Repository] (https://github.com/ebrahim5599/Khatmah.git)
+[GitHub Repository] (https://github.com/ebrahim5599/Khatmah)
 [Google Play Store](https://play.google.com/store/apps/details?id=com.islamic.khatmah)
 
 ### 🌍 Rahalati App
